@@ -1,0 +1,10 @@
+.env make this file
+and shifted all the environment variables in it 
+
+mongodb cloud par jakar 
+quick start me ek database bnalo 
+or IP Address daina 0.0.0.0             (0.0.0.0 means accessible from anywhere)
+this is not good practice 
+And in production we only give IP Address of server (where our server is situated)
+
+connection string password or database name enter kar dena
